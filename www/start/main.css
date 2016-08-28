@@ -1,0 +1,115 @@
+body {
+	background-color: #EAEAEA;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: black;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+table {
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+}
+tr {
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 5px;
+}
+thead {
+background-color:#616161;
+color:#EAEAEA;
+font-weight:bold;
+
+}
+p {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: black;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 5px;
+}
+p.flies {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: black;
+   text-align: justify;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 5px;
+
+
+}
+
+p.titel {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 15pt;
+	font-weight: bold;
+	color: #000066;
+	text-align: left;
+	margin-left: 5px;
+	vertical-align: middle;
+	margin-bottom: 5px;
+	margin-left: 10px;
+	margin-right: 5px;
+	margin-top: 5px;
+
+}
+
+a:active, a, a:focus, a:link, a:visited {
+ 	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	text-align:left;
+	font-weight:bold;
+	color: #000066;
+	text-decoration: none;
+}
+a:hover {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	text-align: left;
+	font-weight: bold;
+	color: #000066;
+	text-decoration: underline;
+
+
+}
+
+input {
+	border: 1;
+	border-style: dotted;
+	border-width: thin;
+	border-top: 0;
+	border-right: 0;
+	background-color: #C0C0C0;
+	color: #000066;
+}
+
+select {
+	border: 1;
+	border-style: dotted;
+	border-width: thin;
+	border-top: 0;
+	border-right: 0;
+	background-color: #C0C0C0;
+	color: #000066;
+}
+
+textarea {
+	border: 1;
+	border-style: dotted;
+	border-width: thin;
+	border-top: 0;
+	border-right: 0;
+	background-color: #C0C0C0;
+	color: #000066;
+}
+

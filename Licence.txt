@@ -1,0 +1,16 @@
+/************************************************************************************
+*  Copyright notice
+* 
+*  MoWeS Portable II (Modular Webserver System Portable) 
+*
+*  Copyright (C) 2000-2007 CH Software (info@chsoftware.net)
+*  www.chsoftware.net
+*  All rights reserved
+*  For more information go to: 
+*  www.chsoftware.net/en/useware/conditions/conditions.htm
+*
+*  MoWeS Portable is free software under the terms of the GNU General Public License.
+*  The GNU/GPL license is found in the file GPL.txt or under 
+*  http://www.gnu.org/licenses/gpl.html.
+*
+*************************************************************************************/
